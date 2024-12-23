@@ -53,11 +53,10 @@ An online platform for selling books with discount and multi-currency support.
 ## 📊 **GitHub Statistics**
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakberdy&show_icons=true&theme=radical&count_private=true&hide=prs,issues)
+![](https://github-readme-stats.vercel.app/api?username=bakberdy&show_icons=true&theme=radical&count_private=true&hide=prs,issues)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakberdy&layout=compact&theme=radical&langs_count=6)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bakberdy&theme=radical&row=1&column=6)
 
 </div>
 
@@ -66,5 +65,4 @@ An online platform for selling books with discount and multi-currency support.
 ## 🤝 **Let's Connect**
 
 - 💬 Telegram: [@bakberdy](https://t.me/bakberdy)
-- 🌐 Personal Website: *Coming Soon!*
-- 📧 Email: *your-email@example.com*
+- 📧 Email: *bakberdy.ye@gmail.com*
