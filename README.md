@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Bakberdy**
+# 👋 Hi, I’m **Bakberdi**
 
 - 🎓 **Computer Science Student at SDU University**
 - 🚀 **Passionate about Mobile Development** using **Flutter** and **Dart**
