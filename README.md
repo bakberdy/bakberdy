@@ -33,7 +33,7 @@
 
 ## 🚀 **Featured Projects**
 
-### [News App](https://github.com/bakberdy/financial-tracker-app)
+### [News App]([https://github.com/bakberdy/financial-tracker-app](https://github.com/bakberdy/news_app))
 A news application that uses the New York Times API.
 
 - **Tech Stack**: Dart, Sqflite, BLOC, Rest API
@@ -41,7 +41,7 @@ A news application that uses the New York Times API.
 
 ---
 
-### [📚 Book E-Commerce Platform](https://github.com/bakberdy/bookstore)
+### [📚 Book E-Commerce Platform]([https://github.com/bakberdy/bookstore](https://github.com/bakberdy/bookshop_admin_panel))
 An online platform for selling books with discount and multi-currency support.
 
 - **Tech Stack**: React, Java, REST API
