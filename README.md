@@ -3,7 +3,6 @@
 - 🎓 **Computer Science Student at SDU University**
 - 🚀 **Passionate about Mobile Development** using **Flutter** and **Dart**
 - 💻 Skilled in **Java**, **Dart**, and frameworks like **Flutter**
-- 🌱 Currently learning **Go (Golang)**
 - 📫 Reach me on **Telegram**: [@bakberdy](https://t.me/bakberdy) *(I'm always online!)*
 
 ---
