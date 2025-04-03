@@ -21,8 +21,8 @@
 ### ⚙️ State Management & Architecture:
 - **State Management**: [BLOC](https://bloclibrary.dev/)
 - **Dependency Injection**: [get_it](https://pub.dev/packages/get_it)
-- **Patterns**: BLOC, Clean Architecture
-- **Principles**: SOLID
+- **Patterns**: Gof patterns(Singleton, Prototype, Factory Method, Builder, Abstract factory, Adapter, Decorator, Facade, Observer)
+- **Principles**: SOLID, DRY, KISS
 
 ### 🛠️ Dev Tools:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
